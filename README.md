@@ -48,10 +48,10 @@ remova os marcadores de comentário do bloco abaixo e mova-o para logo acima do 
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>📊 Dados</strong><br /><sub>Dashboards e análises</sub></td>
-    <td align="center" width="25%"><strong>🗄️ SQL</strong><br /><sub>Modelagem e consultas</sub></td>
-    <td align="center" width="25%"><strong>🧠 IA</strong><br /><sub>Deep Learning</sub></td>
-    <td align="center" width="25%"><strong>👁️ Visão</strong><br /><sub>CNNs e Transformers</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original.svg" width="30" height="30" alt="Dados" /><br /><strong>Dados</strong><br /><sub>Dashboards e análises</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL" /><br /><strong>SQL</strong><br /><sub>Modelagem e consultas</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytorch/pytorch-original.svg" width="30" height="30" alt="IA" /><br /><strong>IA</strong><br /><sub>Deep Learning</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/opencv/opencv-original.svg" width="30" height="30" alt="Visão" /><br /><strong>Visão</strong><br /><sub>CNNs e Transformers</sub></td>
   </tr>
 </table>
 
@@ -61,12 +61,12 @@ remova os marcadores de comentário do bloco abaixo e mova-o para logo acima do 
 
 <h2 align="center">02 · TECNOLOGIAS</h2>
 
-<h3 align="center">📊 Análise de Dados &amp; Business Intelligence</h3>
+<h3 align="center">Análise de Dados &amp; Business Intelligence</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="44" height="44" alt="Power BI" title="Power BI" />
+  <img src="https://raw.githubusercontent.com/wllmStocco/wllmStocco/main/assets/powerbi.svg" width="44" height="44" alt="Power BI" title="Power BI" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="44" height="44" alt="Google Analytics" title="Google Analytics" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,7 +75,7 @@ remova os marcadores de comentário do bloco abaixo e mova-o para logo acima do 
 
 <p align="center"><sub>Python · Power BI · Google Analytics · Looker Studio · Excel avançado</sub></p>
 
-<h3 align="center">🗄️ Bancos de Dados</h3>
+<h3 align="center">Bancos de Dados</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
@@ -87,7 +87,7 @@ remova os marcadores de comentário do bloco abaixo e mova-o para logo acima do 
 
 <p align="center"><sub>SQL · MySQL · PostgreSQL · PL/SQL</sub></p>
 
-<h3 align="center">💻 Linguagens de Programação</h3>
+<h3 align="center">Linguagens de Programação</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
@@ -99,7 +99,7 @@ remova os marcadores de comentário do bloco abaixo e mova-o para logo acima do 
 
 <p align="center"><sub>Python · Java · JavaScript</sub></p>
 
-<h3 align="center">🧠 Inteligência Artificial</h3>
+<h3 align="center">Inteligência Artificial</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch" title="PyTorch" />
@@ -122,7 +122,7 @@ remova os marcadores de comentário do bloco abaixo e mova-o para logo acima do 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ Visão Computacional com CNNs e Transformers</h3>
+      <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytorch/pytorch-original.svg" width="26" height="26" alt="" align="absmiddle" />&nbsp; Visão Computacional com CNNs e Transformers</h3>
       <p>Repositório acadêmico com atividades de visão computacional e modelos multimodais:</p>
       <ul>
         <li><strong>Vision Transformer:</strong> classificação de tumores em ressonância magnética e mapas de atenção.</li>
@@ -142,7 +142,7 @@ remova os marcadores de comentário do bloco abaixo e mova-o para logo acima do 
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Deep Learning · Detecção de Aimbot em Minecraft</h3>
+      <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="26" height="26" alt="" align="absmiddle" />&nbsp; Deep Learning · Detecção de Aimbot em Minecraft</h3>
       <p>Classificação de sequências de movimento legítimo e sequências simuladas de aimbot:</p>
       <ul>
         <li><strong>MLP:</strong> classificação por frame e análise de features.</li>
