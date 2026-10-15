@@ -1,89 +1,105 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wllmStocco/wllmStocco/main/assets/banner.png" width="100%" alt="Banner de William Stocco"/>
 
-  <h1>William Stocco</h1>
-  <h3>Data Analyst | BI Analyst | AI</h3>
+<img src="https://raw.githubusercontent.com/wllmStocco/wllmStocco/main/assets/banner.png" width="100%" alt="Banner de William Stocco"/>
 
-  <a href="mailto:williamcstrabalho@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail"/>
-  </a>
-  <a href="https://github.com/wllmStocco">
-    <img src="https://img.shields.io/badge/GitHub-wllmStocco-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+# William Stocco
+
+### DATA ANALYST · BUSINESS INTELLIGENCE · AI
+
+<a href="https://github.com/wllmStocco">
+  <img src="https://img.shields.io/badge/GitHub-wllmStocco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:williamcstrabalho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
+
 </div>
 
 ---
 
 ## Sobre mim
 
-Interesse em Análise de Dados, Business Intelligence, bancos de dados e Inteligência Artificial, com foco em projetos práticos e soluções utilizando Python e SQL.
+Tenho interesse em Análise de Dados, Business Intelligence, bancos de dados e Inteligência Artificial.
+
+Meu foco é desenvolver projetos práticos utilizando Python, SQL e ferramentas de análise e visualização de dados, explorando também aplicações de visão computacional e aprendizado de máquina.
 
 ## Tecnologias
 
-### Análise de Dados & BI
+### Análise de Dados & Business Intelligence
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" title="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="42" alt="Looker" title="Looker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="42" alt="Google Analytics" title="Google Analytics"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="Excel" title="Excel"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
 ### Bancos de Dados
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL" title="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="42" alt="Oracle / PL-SQL" title="Oracle / PL-SQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="SQL" title="SQL"/>
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-8C2020?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL"/>
 </p>
 
-### Linguagens
+### Linguagens de Programação
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="42" alt="Java" title="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript" title="JavaScript"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ---
 
 ## Projetos em destaque
 
-### Visão Computacional — CNNs vs Transformers
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Estudo comparativo de arquiteturas para visão computacional.
+### Visão Computacional
+
+**CNNs vs Transformers**
+
+Estudo comparativo de arquiteturas de redes neurais aplicadas à visão computacional.
 
 <a href="https://github.com/wllmStocco/visao-computacional-cnns-transformers">
-  <img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
+  <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
 </a>
 
-### Minecraft Aim — IA
+</td>
+<td width="50%" valign="top">
 
-Projeto experimental de inteligência artificial aplicado a um ambiente de jogo.
+### Inteligência Artificial
+
+**Minecraft Aim**
+
+Projeto experimental envolvendo inteligência artificial em um ambiente de jogo.
 
 <a href="https://github.com/wllmStocco/projeto_minecraft_aim">
-  <img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
+  <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Contato
 
-<p align="left">
-  <a href="mailto:williamcstrabalho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-williamcstrabalho%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"/>
-  </a>
-  <a href="https://github.com/wllmStocco">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
-  </a>
-</p>
+<div align="left">
+
+<a href="mailto:williamcstrabalho@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-williamcstrabalho%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Enviar e-mail"/>
+</a>
+
+<a href="https://github.com/wllmStocco">
+  <img src="https://img.shields.io/badge/GitHub-wllmStocco-181717?style=flat-square&logo=github&logoColor=white" alt="Meu GitHub"/>
+</a>
+
+</div>
